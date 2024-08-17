@@ -14,6 +14,7 @@
 *.tilemap binary
 *.wav binary
 *.blk binary
+
 *.pic binary
 
 # Declare files that will always have CRLF line endings on checkout.
